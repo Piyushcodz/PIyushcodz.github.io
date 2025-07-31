@@ -25,7 +25,3 @@ Then open `index.html` in your browser.
 
 This site is deployed via **GitHub Pages** and is live at:
 ➡️ [https://piyushcodz.github.io](https://piyushcodz.github.io)
-
----
-
-Let me know if you want to include a screenshot, project badges, or a “Contributing” section.
